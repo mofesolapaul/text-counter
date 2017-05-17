@@ -1,0 +1,14 @@
+{
+  "name": "text-counter",
+  "version": "1.0.0",
+  "description": "A multipurpose text counter that works bi-directionally, counting how many characters, and words have been entered into specified input fields, and is able to display them: [0 chars, 0 words] for example",
+  "main": "src/textcounter.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Banjo Mofesola Paul",
+  "license": "MIT"
+}
